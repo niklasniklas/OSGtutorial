@@ -34,7 +34,6 @@ osg::Geode* createMassiveQuads( unsigned int number)
 	}
 
 	return geode.release();
-
 }
 
 
@@ -45,6 +44,8 @@ osgViewer::View* createView(int x, int y, int w, int h, osg::Node* scene)
 	view->setUpViewInWindow(x,y,w,h);
 	return view.release();
 }
+
+
 
 int main()
 {
@@ -73,7 +74,4 @@ int main()
 	viewer.addView(view3);
 
 	return viewer.run();
-
-
-
 }

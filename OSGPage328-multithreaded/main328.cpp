@@ -34,6 +34,7 @@ osg::Geode* createMassiveQuads( unsigned int number)
 	}
 
 	return geode.release();
+	// Niclas
 }
 
 

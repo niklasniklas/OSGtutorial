@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3C3B27D6-9E04-4A23-AFEB-A6932F23D68B}</ProjectGuid>
+    <ProjectGuid>{C8607F24-D6F2-4AC3-B370-B5081B9444CA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>OSGPage328multithreaded</RootNamespace>
+    <RootNamespace>OSGxxxNAscratch1</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -136,7 +136,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main328.cpp" />
+    <ClCompile Include="mainXXX.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

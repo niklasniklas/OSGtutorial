@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSGPage251-window", "OSGPag
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSGPage328-multithreaded", "OSGPage328-multithreaded\OSGPage328-multithreaded.vcxproj", "{3C3B27D6-9E04-4A23-AFEB-A6932F23D68B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSGxxx-NAscratch1", "OSGxxx-NAscratch1\OSGxxx-NAscratch1.vcxproj", "{C8607F24-D6F2-4AC3-B370-B5081B9444CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,12 @@ Global
 		{3C3B27D6-9E04-4A23-AFEB-A6932F23D68B}.Release|Win32.ActiveCfg = Release|Win32
 		{3C3B27D6-9E04-4A23-AFEB-A6932F23D68B}.Release|Win32.Build.0 = Release|Win32
 		{3C3B27D6-9E04-4A23-AFEB-A6932F23D68B}.Release|x64.ActiveCfg = Release|Win32
+		{C8607F24-D6F2-4AC3-B370-B5081B9444CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8607F24-D6F2-4AC3-B370-B5081B9444CA}.Debug|Win32.Build.0 = Debug|Win32
+		{C8607F24-D6F2-4AC3-B370-B5081B9444CA}.Debug|x64.ActiveCfg = Debug|x64
+		{C8607F24-D6F2-4AC3-B370-B5081B9444CA}.Release|Win32.ActiveCfg = Release|Win32
+		{C8607F24-D6F2-4AC3-B370-B5081B9444CA}.Release|Win32.Build.0 = Release|Win32
+		{C8607F24-D6F2-4AC3-B370-B5081B9444CA}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

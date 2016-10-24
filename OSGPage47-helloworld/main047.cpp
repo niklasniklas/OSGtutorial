@@ -5,7 +5,7 @@ int main(void)
 {
 	osg::ref_ptr<osg::Node> root;
 	osgViewer::Viewer viewer;
-	viewer.setSceneData(osgDB::readNodeFile("D:\\6.Testdata\\3D\\osg\\cessna.osg"));
+	viewer.setSceneData(osgDB::readNodeFile("E:\\6.Testdata\\3D\\osg\\cessna.osg"));
 	return viewer.run();
 
 }

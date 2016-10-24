@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSGPage047-helloworld", "OSGPage47-helloworld\OSGPage47-helloworld.vcxproj", "{49D8D834-6615-4162-987E-575187E9EDC9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSGPage251-window", "OSGPage251-window\OSGPage251-window.vcxproj", "{A882DB8A-9248-4B34-9EDD-FAB7021E8375}"

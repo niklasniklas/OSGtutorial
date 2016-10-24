@@ -32,7 +32,7 @@ int main(void)
 	camera->setProjectionMatrixAsPerspective(30.0f, (double)traits->width/(double)traits->height, 107.0, 112.0 );
 
 	// 5  -- load model
-	osg::ref_ptr<osg::Node> root = osgDB::readNodeFile("D:\\6.Testdata\\3D\\osg\\cessnafire.osg.0,0,0.rot");
+	osg::ref_ptr<osg::Node> root = osgDB::readNodeFile("E:\\6.Testdata\\3D\\osg\\cessnafire.osg.0,0,0.rot");
 	osgViewer::Viewer viewer;
 	viewer.setCamera(camera.get());
 
